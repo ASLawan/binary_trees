@@ -21,16 +21,16 @@ Values in parent nodes are always greater than or equal to their children (max h
 ### Operations:
 You can perform various operations on binary trees, such as:  
     - **Searching:**   
-Find a specific element within the tree.
+Find a specific element within the tree.  
     - **Insertion:**   
-Add a new element to the tree while maintaining the ordering.
+Add a new element to the tree while maintaining the ordering.  
     - **Deletion:**   
-Remove an element from the tree while preserving its structure.
+Remove an element from the tree while preserving its structure.  
     - **Traversal:**   
 Visit each node in the tree in a specific order  
     - Pre-order  
     - In-order  
-    - Post-order
+    - Post-order  
 
 ## Project Tasks
 
@@ -67,3 +67,6 @@ Implements a function that computes the height if a given binary tree.
 
 ### Task 10: Depth
 Implements a function that computes the depth of a given node in a binary tree.
+
+### Task 11: Size
+Implements a function that computes the size of a given binary tree.
