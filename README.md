@@ -33,3 +33,37 @@ Visit each node in the tree in a specific order
     - Post-order
 
 ## Project Tasks
+
+### Task 0: New node
+In this task, we implemented a function that creates a new node in the binary.
+
+### Task 1: Insert left
+Here we implemented a function that inserts a new node to the left of another node.
+
+### Task 2: Insert right
+Like the previous task but we are inserted the new node to the right of another node in a binary tree.
+
+### Task 3: Delete
+In this task, we implement a function that deletes an entire binary tree.
+
+### Task 4: Is leaf
+In this task, we implemented a function to check if a given node is a leaf node.  
+**leaf node** - node with 0 child nodes
+
+### Task 5: Is root
+Implemented a function that checks if given node is a root node for the binary tree.
+
+### Task 6: Pre_order traversal
+Implements a function that traverses a binary tree using pre_order algorithm.
+
+### Task 7: Inorder traversal
+Implements a function that traverses a binary tree using inorder algorithm.
+
+### Task 8: Postorder traversal
+Implements a function that traverses a binary tree using postorder algorithm.
+
+### Task 9: Height
+Implements a function that computes the height if a given binary tree.
+
+### Task 10: Depth
+Implements a function that computes the depth of a given node in a binary tree.
