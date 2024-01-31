@@ -70,3 +70,35 @@ Implements a function that computes the depth of a given node in a binary tree.
 
 ### Task 11: Size
 Implements a function that computes the size of a given binary tree.
+
+### Task 12: Leaves
+Implements a function that counts the number of leaf nodes in a binary tree.
+
+### Task 13: Nodes
+Implements a function that counts the number of nodes that have at least one child node.
+
+### Task 14: Balance factor
+Implements a function that computes the balance factor of a binary tree.  
+Balance factor of a node refers to the difference between the heights of its left and right subtrees.  
+It's used to quantify how "balanced" the tree is around that node.
+    **-Positive balance factor (BF > 0):**  
+The left subtree is taller than the right subtree. This indicates a left-heavy node.  
+    **-Negative balance factor (BF < 0):**  
+The right subtree is taller than the left subtree. This indicates a right-heavy node.
+    **-Zero balance factor (BF = 0):**  
+The left and right subtrees have the same height. This indicates a perfectly balanced node.  
+Balance factors are particularly important for self-balancing binary trees, like AVL trees or red-black trees.  
+These trees use the balance factors of their nodes to perform rotations and maintain a roughly balanced structure even after insertions or deletions  
+
+### Task 15: Is full
+Implements a function that checks if a binary tree is full or not.  
+    **-Full Binary tree:**  
+A binary tree in which all nodes either have two child nodes or none.  
+
+
+### Task 17: Sibling
+Implements a function that checks if two nodes on a binary tree are siblings.  
+
+
+### Task 18: Uncle
+Implements a function that finds the uncle to a given node in a binary tree.
